@@ -65,7 +65,7 @@ function App() {
   return (
     <div className="App">
       <Router>
-        <Navbar bg="light" expand="lg">
+        <Navbar bg="" expand="lg">
           <Navbar.Brand href="/" className='mx-2'>Shop</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
