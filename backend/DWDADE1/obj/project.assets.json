@@ -3347,11 +3347,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\judyh\\Desktop\\ban_thu_bong\\DWDADE1\\DWDADE1.csproj",
+      "projectUniqueName": "C:\\Users\\judyh\\Desktop\\các projects\\ban_thu_bong\\backend\\DWDADE1\\DWDADE1.csproj",
       "projectName": "DWDADE1",
-      "projectPath": "C:\\Users\\judyh\\Desktop\\ban_thu_bong\\DWDADE1\\DWDADE1.csproj",
+      "projectPath": "C:\\Users\\judyh\\Desktop\\các projects\\ban_thu_bong\\backend\\DWDADE1\\DWDADE1.csproj",
       "packagesPath": "C:\\Users\\judyh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\judyh\\Desktop\\ban_thu_bong\\DWDADE1\\obj\\",
+      "outputPath": "C:\\Users\\judyh\\Desktop\\các projects\\ban_thu_bong\\backend\\DWDADE1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\judyh\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "99sSZAgFVLfiTXUdavINMLUG+IsN/7Vl0pR+SEHJ4rJwY2DXub3jzy17kAcvEzcsK7n47Q8iXttCpfmI+/P9Eg==",
+  "dgSpecHash": "wfU8EcwY6JI//YJ7yXYp+Ec9yUno76g6kddY2kg/F11+T4FzjXO/yxmCQebeaOd21pevLAnnr+0pUhu/gZbsEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\judyh\\Desktop\\ban_thu_bong\\DWDADE1\\DWDADE1.csproj",
+  "projectFilePath": "C:\\Users\\judyh\\Desktop\\các projects\\ban_thu_bong\\backend\\DWDADE1\\DWDADE1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\judyh\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\judyh\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
